@@ -1,0 +1,53 @@
+GEOMETRIA QUE SE DOBRA — QUIZ 2D HTML5
+
+Conteúdo:
+- index.html
+- assets/nivel1.png
+- assets/nivel2.png
+- assets/nivel3.png
+
+Novidades desta versão:
+- Tela inicial com Tsuruzinho
+- Campo para nome do aluno
+- Instruções
+- Botão Começar
+- 3 fases com 10 questões cada
+- Desbloqueio progressivo com mínimo de 7/10
+- Certificado final com nome do aluno e pontuação total
+- Botão para imprimir ou salvar o certificado em PDF
+
+Como usar:
+1. Extraia a pasta completa.
+2. Abra index.html no navegador.
+3. Digite o nome do aluno e clique em Começar.
+4. Complete as três fases.
+5. Ao concluir a terceira fase com pelo menos 7 acertos, abra o certificado.
+
+Observação:
+- O progresso é mantido apenas enquanto a página está aberta. Ao recarregar, volta ao início.
+
+
+EFEITOS DESTA VERSÃO:
+- Som de acerto
+- Som de erro
+- Som especial ao desbloquear fase
+- Tsuruzinho com animação suave
+- Animação de comemoração no acerto
+- Animação de reação no erro
+- Tela especial com confetes/efeitos ao passar de fase
+- Respeita a preferência do navegador por redução de movimento
+
+
+VERSÃO ATUAL:
+Nome do jogo: GEOMETRIA QUE SE DOBRA
+
+MEDALHAS POR DESEMPENHO:
+- 0 a 17 pontos: Medalha de Bronze
+- 18 a 23 pontos: Medalha de Prata
+- 24 a 27 pontos: Medalha de Ouro
+- 28 a 30 pontos: Medalha Diamante
+
+Também foi incluído botão "Reiniciar jogo" no menu, durante as questões,
+na tela de resultado e no certificado.
+
+- A tela inicial agora apresenta a capa oficial do guia Geometria que se Dobra.
